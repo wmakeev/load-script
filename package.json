@@ -1,0 +1,24 @@
+{
+  "name": "@wmakeev/load-script",
+  "version": "0.1.0",
+  "description": "Client script loader with promises",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js -o dist/load-script.js -s loadScript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmakeev/load-script.git"
+  },
+  "keywords": [
+    "client",
+    "script",
+    "loader"
+  ],
+  "author": "Vitaliy V. Makeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmakeev/load-script/issues"
+  },
+  "homepage": "https://github.com/wmakeev/load-script#readme"
+}
