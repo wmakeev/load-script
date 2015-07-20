@@ -1,6 +1,6 @@
 {
   "name": "@wmakeev/load-script",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Client script loader with promises",
   "main": "index.js",
   "scripts": {
